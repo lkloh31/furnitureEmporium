@@ -1,7 +1,7 @@
 h1 {
   color: rgb(9, 9, 9);
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 7ch;
+  font-size: 8ch;
 }
 
 h2 {
@@ -9,7 +9,12 @@ h2 {
   font-size: 3.4ch;
 }
 
-.style1 {
+.bodyStyle {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.cardStyle {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   text-align: justify;
@@ -27,7 +32,7 @@ h2 {
 }
 
 .oldPrice {
-  color: rgb(121, 117, 117);
+  color: rgb(76, 73, 73);
   font-size: 1.8ch;
 }
 
